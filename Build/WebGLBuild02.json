@@ -1,0 +1,16 @@
+{
+"companyName": "Atthah",
+"productName": "Google-OneBLR-Holiday",
+"productVersion": "0.1",
+"dataUrl": "WebGLBuild02.data.unityweb",
+"wasmCodeUrl": "WebGLBuild02.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLBuild02.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
